@@ -24,6 +24,11 @@
 
 美中不足的是沒有無線網，所以打算來這裡從事需要網絡的工作的同志要注意了。
 
+翻到一段對這個咖啡廳歷史的介紹，在 [KickStarter](https://www.kickstarter.com/projects/24195141/timeless-coffee-roasters) 上。
+店主們追求 vegan, local，所以食物都是 diary free 的。
+
+> Timeless Coffee Roasters (4252 Piedmont Ave., Oakland), a cafe, roaster, and bakery, approaches its Wi-Fi and dairy pastries the same way. That is, neither are available — and that fact is unannounced.
+
 ---
 #### Ritual Coffee
 
