@@ -47,6 +47,11 @@ I have to buy one about two-three weeks. So $6/week is probably right.
 
 ### Health Care: $35/month + $$$ vet visit
 
-Because I lost my first cat Turk, I am super cautious about the current two. I have health insurance for them from 24PetWatch. This is about $35/month for two cats. I plan to have these until they are 1 year old.
-I’ve also visited the vet for a few times (including post-adoption visit and a visit when Butter’s eye is abnormal). Each visit, is easily above $100; and it can easily go unbounded. So this part is often the most expensive part of having a pet; while it is also the most unpredictable part.
+Because I lost my first cat Turk, I am super cautious about the current two.
+I have health insurance for them from 24PetWatch.
+This is about $35/month for two cats.
+I plan to have these until they are 1 year old.
+I’ve also visited the vet for a few times (including post-adoption visit and a visit when Butter’s eye is abnormal).
+Each visit, is easily above $100; and it can easily go unbounded.
+So this part is often the most expensive part of having a pet; while it is also the most unpredictable part.
 So advice, make your home clean and keep the pets indoor only. Observe any unusual behaviors, especially their **appetites**.
