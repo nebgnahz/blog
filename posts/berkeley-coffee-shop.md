@@ -17,6 +17,13 @@
 對了，文章會不時地更新，因為我也在探索新的咖啡館。
 
 ---
+#### What's the next one?
+
+- [ ] Arbor Cafe
+- [ ] Awaken Cafe
+- [ ] Fertile Ground Cafe
+
+---
 #### Timeless Coffee Roaster
 
 奧克蘭 Piedmont 鬧市中的一家咖啡店，環境很不錯，我挑到了最喜歡的臨窗座，感覺呆一下午應該很愜意。
@@ -28,6 +35,11 @@
 店主們追求 vegan, local，所以食物都是 diary free 的。
 
 > Timeless Coffee Roasters (4252 Piedmont Ave., Oakland), a cafe, roaster, and bakery, approaches its Wi-Fi and dairy pastries the same way. That is, neither are available — and that fact is unannounced.
+
+---
+#### Highwire Coffee Roasters
+
+vibe 超讚啊，大杯的拿鐵，網絡不錯，推薦：）
 
 ---
 #### Ritual Coffee
