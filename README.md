@@ -12,7 +12,7 @@ This attempt may not be different, but still, worth trying, isn't it?
 
 ---
 
-#### [Kitchenette](posts/kitchenette.md)
+#### [小厨房 Kitchenette](posts/kitchenette.md)
 
 Kitchenette is my small cooking area. It usually has cooked food and my cats.
 
