@@ -12,6 +12,12 @@ This attempt may not be different, but still, worth trying, isn't it?
 
 ---
 
+#### [Kitchenette](posts/kitchenette.md)
+
+Kitchenette is my small cooking area. It usually has cooked food and my cats.
+
+---
+
 #### [咖啡與館 Coffee and Cafe](posts/berkeley-coffee-shop.md)
 
 朋友圈裏流行着這麼一篇文章“二十幾歲住在哪裏對你有多重要？”，大致是在講你年輕時所在的城市把他所獨具的氣質文化風格深深地烙印在你的經歷裏。 而灣區的咖啡文化大概就是對我的烙印。
