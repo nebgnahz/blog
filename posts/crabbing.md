@@ -2,11 +2,6 @@
 
 ![first-crab](https://cloud.githubusercontent.com/assets/941519/20460547/5653386e-ae9b-11e6-9c0d-a6ba2f1dad97.JPG)
 
-```c
-// TODO(benzh)
-// 下次去钓我来多拍些照片：）
-```
-
 最近对抓螃蟹这件事非常有兴趣，也因此做了些调研和实践，发现周围小伙伴也都很有兴趣，苦于没有老司机带。
 于是我打算基于过去两次的经验来写篇文章发扬发扬，不知道能不能成为继滑雪、摘樱桃之外的另一个程序员活动呢 ：）
 
@@ -40,15 +35,18 @@ Half Moon Bay 的 Jetty 大概是像下图那样
 
 ## 装备和技能
 
-强烈推荐的方法。Crab Pot 感觉有船出海会比较有用。
-
 ```c
 // TODO(benzh)
 // 先导向 crabbinghq 的教程吧，之后慢慢写自己的体验。
 ```
 
-- [Crab Snare](http://www.crabbinghq.com/howto/ultimate-guide-to-crabbing-with-snares/)
-- [Crab Ring](http://www.crabbinghq.com/howto/how-to-go-crabbing-crab-rings/)
+#### [鱼竿法](http://www.crabbinghq.com/howto/ultimate-guide-to-crabbing-with-snares/)
+
+![鱼竿法](https://cloud.githubusercontent.com/assets/941519/20645510/a5dae3ee-b415-11e6-845c-710aa2ade12c.jpg)
+
+#### [螃蟹网](http://www.crabbinghq.com/howto/how-to-go-crabbing-crab-rings/)
+
+![螃蟹网](https://cloud.githubusercontent.com/assets/941519/20645533/29bc5756-b416-11e6-80ca-808441c384e0.JPG)
 
 至于饵料，鸡腿啦、培根啦、鱿鱼啦都可以的。个人目前都用鸡腿，效果还可以。
 
@@ -66,6 +64,10 @@ Half Moon Bay 的 Jetty 大概是像下图那样
 我一开始用 snare 的时候跟钓鱼一样 = =，snare 浮在上面，那螃蟹哪吃得到啊！
 为了沉底，如果你在 jetty 上，就必须扔的远远的，要不然还没沉底就被浪打回来了。
 如果你在码头上，就稍微容易些。In either case，如果有砖头、铅块，可以放一点加快沉底速度。
+
+3, 不要勉强
+
+靠天吃饭的活动就得看天意。如果风大浪大，就早点撤，省的钓不着螃蟹还损失了装备。
 
 ## 其他链接
 
@@ -102,3 +104,7 @@ Half Moon Bay 的 Jetty 大概是像下图那样
 - [Shakespeare Medium Action Ugly Stik Bigwater Combo](https://www.amazon.com/gp/product/B00012PDOA/)
 
 我表示很多其他的设备都是 Big 5 啦，Walmart 啦或者当地的小店买的。
+
+## 过往活动
+
+- [2016 感恩节](https://github.com/nebgnahz/blog/issues/2)
