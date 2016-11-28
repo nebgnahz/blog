@@ -37,3 +37,9 @@ Kitchenette is my small cooking area. It usually has cooked food and my cats.
 #### 红烧鱼
 
 ![default](https://cloud.githubusercontent.com/assets/941519/20645377/62c41f70-b411-11e6-9a28-d90329d4b934.JPG)
+
+---
+
+#### 广式月饼
+
+![img_5044 copy](https://cloud.githubusercontent.com/assets/941519/20658096/64d03e1e-b4ef-11e6-8651-16eef6919897.JPG)
