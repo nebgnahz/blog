@@ -12,7 +12,7 @@ This attempt may not be different, but still, worth trying, isn't it?
 
 ---
 
-#### [系統機制與個人主義 Systems and Individuals](systems-and-individuals.md)
+#### [系統機制與個人主義 Systems and Individuals](posts/systems-and-individuals.md)
 
 論可持續發展？
 
