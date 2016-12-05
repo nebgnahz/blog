@@ -12,6 +12,12 @@ This attempt may not be different, but still, worth trying, isn't it?
 
 ---
 
+#### [系統機制與個人主義 Systems and Individuals](systems-and-individuals.md)
+
+論可持續發展？
+
+---
+
 #### [小厨房 Kitchenette](posts/kitchenette.md)
 
 Kitchenette is my small cooking area. It usually has cooked food and my cats.
