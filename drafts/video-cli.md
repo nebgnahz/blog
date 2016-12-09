@@ -8,7 +8,7 @@ Below is a quick list of useful command line tools and examples for the future s
 Crop a video from some start time (1 second) with a duration of 3 seconds
 
 ```shell
-$ ffmpeg -ss 1 -i from.avi -t 3 -c copy to.avid
+$ ffmpeg -ss 1 -i from.avi -t 3 -c copy to.avi
 ```
 
 - `-ss` start position, this may be approximate because it's not possible to be precise in some video formats.
