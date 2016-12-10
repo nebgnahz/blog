@@ -5,6 +5,21 @@ Kitchenette is my small cooking area. It usually has cooked food and my cats.
 
 ---
 
+菜单
+
+- [小吊梨汤](#小吊梨汤)
+- [土豆丝](#土豆丝)
+- [红烧排骨](#红烧排骨)
+- [煎牛排](#煎牛排)
+- [红烧鱼](#红烧鱼)
+- [广式月饼](#广式月饼)
+- [煎山药](#煎山药)
+- [煲仔饭](#煲仔饭)
+- [白灼芥蓝](#白灼芥蓝)
+- [腌笃鲜](#腌笃鲜)
+
+---
+
 #### 小吊梨汤
 
 阿曼达的视频[小吊梨汤【曼食慢语】](https://www.youtube.com/watch?v=Lx45-9sSFzQ)做的非常清楚，一道非常简单但超级好吃的糖水菜。
@@ -43,3 +58,28 @@ Kitchenette is my small cooking area. It usually has cooked food and my cats.
 #### 广式月饼
 
 ![img_5044 copy](https://cloud.githubusercontent.com/assets/941519/20658096/64d03e1e-b4ef-11e6-8651-16eef6919897.JPG)
+
+---
+
+#### 煎山药
+
+![煎山药](https://cloud.githubusercontent.com/assets/941519/21071368/13d5a220-be53-11e6-811a-e27aaece9b0b.JPG)
+
+---
+
+#### 煲仔饭
+
+![煲仔饭](https://cloud.githubusercontent.com/assets/941519/21071369/13e592b6-be53-11e6-885b-e8d5efb44097.JPG)
+
+---
+
+#### 白灼芥蓝
+
+![白灼芥蓝](https://cloud.githubusercontent.com/assets/941519/21071370/13eda578-be53-11e6-9782-ec58e6d435cb.JPG)
+
+---
+
+#### 腌笃鲜
+
+![腌笃鲜](https://cloud.githubusercontent.com/assets/941519/21071371/13edc238-be53-11e6-8d13-658fe4f11d69.JPG)
+![腌笃鲜-2](https://cloud.githubusercontent.com/assets/941519/21071372/13ee1080-be53-11e6-9f38-a99e463c8d9f.JPG)
