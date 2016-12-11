@@ -19,11 +19,15 @@
 ---
 #### What's the next one?
 
-- [ ] Arbor Cafe
 - [ ] Awaken Cafe
 - [ ] Fertile Ground Cafe
 
 ---
+
+#### Arbor Cafe
+
+五星好評，是一家適合長期工作咖啡館。無線網路在 5 Mbps 以上，空間大，桌型多（有高有低，有軟有硬），咖啡好喝，周圍還有好吃的韓國店，雖然 cash only，可是咖啡店裡有個取款機（很周到有木有）。學期末能看到好多伯克利的學生，電腦都打開看的是 bcourses，哈哈。當然最大的好處是離我家超級近：）
+
 #### Timeless Coffee Roaster
 
 奧克蘭 Piedmont 鬧市中的一家咖啡店，環境很不錯，我挑到了最喜歡的臨窗座，感覺呆一下午應該很愜意。
