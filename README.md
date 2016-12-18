@@ -12,7 +12,7 @@ This attempt may not be different, but still, worth trying, isn't it?
 
 ---
 
-#### [Cocktail 鸡尾酒](posts/cocktail.md)
+#### [Home Bar 家庭小吧](posts/home-bar.md)
 
 如何用 $100 的预算在家里搞一个还不错的调酒场？
 
