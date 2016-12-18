@@ -12,6 +12,12 @@ This attempt may not be different, but still, worth trying, isn't it?
 
 ---
 
+#### [Cocktail 鸡尾酒](posts/cocktail.md)
+
+如何用 $100 的预算在家里搞一个还不错的调酒场？
+
+---
+
 #### [系統機制與個人主義 Systems and Individuals](posts/systems-and-individuals.md)
 
 論可持續發展？
