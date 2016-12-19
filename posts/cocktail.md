@@ -6,8 +6,10 @@ Cocktail
 ---
 #### Done
 
-- [X] Sweet Martini
+Links are mostly Youtube videos.
 
+- [X] [Sweet Martini](https://www.youtube.com/watch?v=sAo6X7jSbd8)
+- [X] [Gin and Tonic](https://www.youtube.com/watch?v=RpS8ayaU820)
 
 ---
 #### Todo
@@ -27,3 +29,15 @@ Cocktail
 * Mojito: White rum + lime juice + mint + sugar + soda water
 * Daiquiri: White rum + lime juice + simple syrup
 * Margarita: Tequila + lime juice + simple syrup + orange liqueur + glass rimmed with salt
+
+---
+#### Resources
+
+- [NCotW Summary](https://docs.google.com/spreadsheets/d/1fv1OGUhQxKCJh7zfS3w0sMIYYZHAJaoQAnHdR_rNHAk/edit#gid=0)
+A Google Spreadsheet file that summarizes Reddit Not Cocktail of the Week, and it keeps updated!
+
+- [Small Screen Network](https://www.youtube.com/user/SmallScreenNetwork)
+Many useful videos for all levels.
+
+- [Cocktail Chemistry](https://www.youtube.com/channel/UC-o0CfpOyFJOfyWKtqS1hZQ)
+Their videos are really clear and they have many how-tos.
