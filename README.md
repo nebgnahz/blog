@@ -11,6 +11,12 @@ This attempt may not be different, but still, worth trying, isn't it?
 ### Posts
 
 ---
+#### [Cocktail](posts/home-bar.md)
+
+A list of cocktails that I've tried and plan to try. Also various resources that I've encountered along the research.
+
+---
+
 
 #### [Home Bar 家庭小吧](posts/home-bar.md)
 
