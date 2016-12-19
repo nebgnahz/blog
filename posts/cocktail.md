@@ -21,7 +21,6 @@ Links are mostly Youtube videos.
 * White Russian: Vodka + Kahlua + Cream or milk
 * Cosmopolitan: Vodka + triple sec + cranberry juice + lime juice
 * Martini: Gin + dry vermouth + olive garnish.
-* Gin and tonic: Gin + tonic water
 * Gimlet: Gin + lime juice
 * Gin fizz: Gin + lemon juice + sugar (Gomme syrup officially) + soda water. Use Old Tom Gin and you essentially have a Tom Collins
 * Mint julep: Bourbon + mint leaves + powdered sugar + water
