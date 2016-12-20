@@ -6,11 +6,11 @@ Cocktail
 ---
 #### Done
 
-Links are mostly Youtube videos.
+**Video** links are mostly Youtube videos; notes are my comments; and photo is a proof of existence :)
 
 - [X] Sweet Martini - [video](https://www.youtube.com/watch?v=sAo6X7jSbd8)
 - [X] Gin and Tonic - [video](https://www.youtube.com/watch?v=RpS8ayaU820)
-- [X] Daiquiri - [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg), [notes](#daiquiri), [image](https://cloud.githubusercontent.com/assets/941519/21339063/c48e3c96-c630-11e6-966e-d9f0b0f8f4d3.jpg)
+- [X] Daiquiri - [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg), [notes](#daiquiri), [photo](https://cloud.githubusercontent.com/assets/941519/21339063/c48e3c96-c630-11e6-966e-d9f0b0f8f4d3.jpg)
 
 
 ---
