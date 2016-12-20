@@ -8,8 +8,26 @@ Cocktail
 
 Links are mostly Youtube videos.
 
-- [X] [Sweet Martini](https://www.youtube.com/watch?v=sAo6X7jSbd8)
-- [X] [Gin and Tonic](https://www.youtube.com/watch?v=RpS8ayaU820)
+- [X] Sweet Martini - [video](https://www.youtube.com/watch?v=sAo6X7jSbd8)
+- [X] Gin and Tonic - [video](https://www.youtube.com/watch?v=RpS8ayaU820)
+- [X] Daiquiri - [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg), [notes](#daiquiri)
+
+---
+#### Comment
+
+##### Daiquiri
+
+The first cocktail outside of United States, invented in Cuba.
+Featuring the fresh taste of Rum and lemon juice.
+Use simple syrup to balance the sour-ness.
+Simple syrup + lemon juice is also known as sour mix.
+
+```
+2 oz White Rum
++ .75 lime juice
++ .75 simple syrup
++ Shake
+```
 
 ---
 #### Todo
