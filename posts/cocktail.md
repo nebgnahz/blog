@@ -10,7 +10,29 @@ Links are mostly Youtube videos.
 
 - [X] Sweet Martini - [video](https://www.youtube.com/watch?v=sAo6X7jSbd8)
 - [X] Gin and Tonic - [video](https://www.youtube.com/watch?v=RpS8ayaU820)
-- [X] Daiquiri - [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg), [notes](#daiquiri)
+- [X] Daiquiri - [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg), [notes](#daiquiri), [image](https://cloud.githubusercontent.com/assets/941519/21339063/c48e3c96-c630-11e6-966e-d9f0b0f8f4d3.jpg)
+
+
+---
+#### Doable
+
+* Gimlet: Gin + lime juice
+* Vodka martini: Vodka + dry vermouth + olive garnish (**need olive**)
+* Vodka and tonic: Vodka + tonic water
+* Screwdriver: Vodka + orance juice (**need orange juice**)
+* Martini: Gin + dry vermouth + olive garnish (**need olive**)
+* Gin fizz: Gin + lemon juice + sugar + soda water. Use Old Tom Gin and you essentially have a Tom Collins
+* Mint julep: Bourbon + mint leaves + powdered sugar + water
+* Whiskey sour: Bourbon + lemon juice + sugar
+* Mojito: White rum + lime juice + mint + sugar + soda water (**need soda water**)
+* Tom Collinses: gin + lemon juice + simple syrup
+* Cuba Libres: rum + coke
+* Gin Rickeys: Gin + lime + soda (**need soda**)
+* Old Fashioneds: bourbon + bitter + sugar 
+* Whiskey Sours: lemon juice + whisky + egg white + syrup
+* Manhattans: bitters + whisky + sweet vermouth + cherry
+* Mint Juleps: bourbon + mint + powdered sugar
+
 
 ---
 #### Comment
@@ -35,7 +57,7 @@ Fun part: in the [how to video](https://www.youtube.com/watch?v=JnljNOZIG-c),
 when she says 6oz of orange juice, I start to worry the drink she mixes...
 
 ---
-#### Todo
+#### Potential List
 
 * Vodka martini: Vodka + dry vermouth + olive garnish
 * Vodka and tonic: Vodka + tonic water
