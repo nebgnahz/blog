@@ -11,7 +11,7 @@ Cocktail
 - [X] Sweet Martini - [video](https://www.youtube.com/watch?v=sAo6X7jSbd8)
 - [X] Gin and Tonic - [video](https://www.youtube.com/watch?v=RpS8ayaU820)
 - [X] Daiquiri - [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg), [notes](#daiquiri), [photo](https://cloud.githubusercontent.com/assets/941519/21339063/c48e3c96-c630-11e6-966e-d9f0b0f8f4d3.jpg)
-
+- [X] Manhattans - [video](http://smallscreennetwork.com/video/9/manhattan), [notes](#manhattans), [photo](https://cloud.githubusercontent.com/assets/941519/21378404/0010d420-c6fb-11e6-9c33-44249d18746f.JPG)
 
 ---
 #### Doable
@@ -33,7 +33,6 @@ Cocktail
 * Manhattans: bitters + whisky + sweet vermouth + cherry
 * Mint Juleps: bourbon + mint + powdered sugar
 
-
 ---
 #### Comment
 
@@ -49,6 +48,18 @@ Simple syrup + lemon juice is also known as sour mix.
 + .75 lime juice
 + .75 simple syrup
 + Shake
+```
+
+##### Manhattans
+
+A fictional origin with then-away Lady Randolph Churchill adds to the story when you make one.
+Definitely classic. Tastes strong bourbon first, and then a glimpse of sweetness.
+
+```
+2 oz Bourbon/Rye Whisky
++ .75 Sweet Vermo
++ dash of bitters
++ garnish with cherry
 ```
 
 ##### Screwdriver
