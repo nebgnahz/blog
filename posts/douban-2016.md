@@ -1,6 +1,15 @@
 # 豆瓣 2016
 
-2016 年并没有看很多电影，虽然豆瓣记录了 74 部，但其中不少是连续剧，比如马男三季，比如绝命毒师四季，比如女子监狱三季。
+2016 年并没有看很多电影，虽然豆瓣记录了 74 部，但其中不少是连续剧，比如马男三季，比如绝命毒师四季，比如女子监狱三季。来评个个人最佳（个人 2016年看过的）吧。
+
+- 最佳经典：It's a Wonderful Life
+- 最佳历史剧：The Crown
+- 最佳剧情：Westworlds
+- 最佳动画片：Zoopopia
+- 最佳中文：破风
+- 最佳音乐剧：Sing Street
+- 最佳烂片：恶棍天使
+- 最佳剧集：_Trust no bitch_ from _Orange is the new black_
 
 ---
 
@@ -21,6 +30,16 @@
 
 ---
 
+有 30 多部电影和剧都是本年（2016）的，然后 2015 年的大概有 17 部，然后零零散散之前的好多年都有看。
+机缘巧合，还看了一部 2017 年的电影 _52赫茲，我愛你_ 的点映。
+早期的经典作品还是看的不够多啊，不过像 _生活多美好 It's a Wonderful Life_ 和 _四百击 Les quatre cents coups_ 这些都超级好看。
+
+[movie-by-year.pdf](https://github.com/nebgnahz/blog/files/675079/movie-by-year.pdf)
+![movie-by-year](https://cloud.githubusercontent.com/assets/941519/21514554/26263896-cc7b-11e6-9b14-71ebceeaa02c.png)
+
+---
+
+
 看完每部剧之后我也会打个分，豆瓣是星星五分制，为了便于查看，我加了随机噪声。
 
 - [评分对比高清图](https://github.com/nebgnahz/blog/files/675060/rating-compare.pdf)
@@ -32,7 +51,7 @@
 
 最后放一个完整的列表，评分从高至低排序。
 
-- [评分排序高清图](https://github.com/nebgnahz/blog/files/675059/rating.pdf)
+- [评分排序高清图](https://github.com/nebgnahz/blog/files/675093/rating.pdf)
 - [评分排序交互图](https://docs.google.com/spreadsheets/d/1xEj4ZBv0zsOYJYGt-h9Cz-o_J406zsAmBu0lvcPXBN0/pubchart?oid=1416982998&format=interactive)
 
 ![评分排序高清图](https://cloud.githubusercontent.com/assets/941519/21514297/9798fd36-cc78-11e6-9ed8-6d59fa0ec97c.png)
