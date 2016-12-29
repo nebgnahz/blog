@@ -1,6 +1,8 @@
 # 豆瓣 2016
 
-2016 年并没有看很多电影，虽然豆瓣记录了 74 部，但其中不少是连续剧，比如马男三季，比如绝命毒师四季，比如女子监狱三季。来评个个人最佳（个人 2016年看过的）吧。
+豆瓣的统计结果出来了：2016年 我一共观影 77 部，比去年少 68 部，平均 4.7 天看一部。其中有 24 部电视剧，22 部新片，有 17 部打了 5 星。
+其中不少是 Netflix Original，比如马男三季，比如绝命毒师四季，比如女子监狱三季。
+来评个个人最佳（个人 2016年看过的）吧。
 
 - 最佳经典：It's a Wonderful Life
 - 最佳历史剧：The Crown
@@ -55,5 +57,13 @@
 - [评分排序交互图](https://docs.google.com/spreadsheets/d/1xEj4ZBv0zsOYJYGt-h9Cz-o_J406zsAmBu0lvcPXBN0/pubchart?oid=1416982998&format=interactive)
 
 ![评分排序高清图](https://cloud.githubusercontent.com/assets/941519/21514297/9798fd36-cc78-11e6-9ed8-6d59fa0ec97c.png)
+
+---
+
+豆瓣海报墙，[点我看大图](https://cloud.githubusercontent.com/assets/941519/21551257/23b3edc2-cdb3-11e6-8363-6c57d9143c3d.jpg)
+
+![2016-douban-poster-wall-small](https://cloud.githubusercontent.com/assets/941519/21551248/23a3a4c6-cdb3-11e6-8a22-502b7e766d44.jpg)
+
+---
 
 之前还总结了 2014 年的，参见：[豆瓣 2014](http://people.eecs.berkeley.edu/~benzh/misc/douban-2014/)
