@@ -7,11 +7,14 @@
 - 最佳经典：It's a Wonderful Life
 - 最佳历史剧：The Crown
 - 最佳剧情：Westworlds
-- 最佳动画片：Zoopopia
+- 最佳动画片：Zootopia
 - 最佳中文：破风
 - 最佳音乐剧：Sing Street
 - 最佳烂片：恶棍天使
 - 最佳剧集：_Trust no bitch_ from _Orange is the new black_
+- 印象最深：Me Before You
+
+Edit: 扫了一眼豆瓣的[年度电影](https://movie.douban.com/annual2016/?source=standbyme)，发现还有好多没看的。。。
 
 ---
 
