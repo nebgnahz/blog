@@ -11,6 +11,11 @@ This attempt may not be different, but still, worth trying, isn't it?
 ### Posts
 
 ---
+#### [我的 2016](posts/my-2016.md)
+
+A Look back at 2016. 大概写了 5995 字，好多废话的说。
+ 
+---
 #### [豆瓣 2016](posts/douban-2016.md)
 
 又到一年总结时
