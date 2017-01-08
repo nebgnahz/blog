@@ -12,6 +12,7 @@ Cocktail
 - [X] Gin and Tonic - [video](https://www.youtube.com/watch?v=RpS8ayaU820)
 - [X] Daiquiri - [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg), [notes](#daiquiri), [photo](https://cloud.githubusercontent.com/assets/941519/21339063/c48e3c96-c630-11e6-966e-d9f0b0f8f4d3.jpg)
 - [X] Manhattans - [video](http://smallscreennetwork.com/video/9/manhattan), [notes](#manhattans), [photo](https://cloud.githubusercontent.com/assets/941519/21378404/0010d420-c6fb-11e6-9c33-44249d18746f.JPG)
+- [X] Whisky Sour - [video](https://www.youtube.com/watch?v=a2_h8um0tWQ), [notes](#whisky-sour), [photo1](https://cloud.githubusercontent.com/assets/941519/21747653/ce86b362-d522-11e6-8e5e-b0a1d9df80a8.jpg), [photo2](https://cloud.githubusercontent.com/assets/941519/21747654/ce964408-d522-11e6-9fe9-d268237c2eeb.jpg)
 
 ---
 #### Doable
@@ -66,6 +67,19 @@ Definitely classic. Tastes strong bourbon first, and then a glimpse of sweetness
 
 Fun part: in the [how to video](https://www.youtube.com/watch?v=JnljNOZIG-c),
 when she says 6oz of orange juice, I start to worry the drink she mixes...
+
+##### Whisky Sour
+
+The version with fresh lemon juice actually tastes great (wine, sweetness and sour are perfectly mixed).
+Egg white enhances the texture, together with the garnish, it makes great photos!
+
+```
+2 oz Bourbon/Rye Whisky
++ .75 Fresh Lemon Juice
++ .75 Simple Syrup
++ egg white
++ garnish with cherry/orange
+```
 
 ---
 #### Potential List
