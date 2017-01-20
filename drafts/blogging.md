@@ -54,11 +54,88 @@ There are a few downsides here:
 
 There are a couple open-source projects for these static sites.
 
-- Jekyll (in Ruby)
-- Hugo (in Golang)
-- Hexo (in Javascript)
+- Jekyll (in Ruby), [show case](https://github.com/jekyll/jekyll/wiki/sites), [themes](http://jekyllthemes.org/)
+- Hugo (in Golang), [show case](https://gohugo.io/showcase/), [themes](http://themes.gohugo.io/)
+- Hexo (in Javascript), [themes](https://hexo.io/themes/)
 
-And I've seen (also personally used Gitbook).
+Jekyll is probably the most well-known one given its deep integration with [GitHub Pages](https://pages.github.com/).
+However, Ruby, with its environment isn't the best for all cases. You need to install all the dependencies before you can get started.
+For that reason, many newer developers who are looking for static site generator often prefers Hugo.
+Written in Go, you can simply download a compiled binary and then go.
+Hexo is on top of Javascript (Nodejs), so if you are a web developer, it's your arena.
+
+These frameworks pretty much share a similar structure. I will use Jekyll as an example.
+
+#### Configuration
+
+First there is a config file describing your sites. In Jekyll, it's `_config.yaml`.
+One example is as follows, and the complete reference is [available](https://jekyllrb.com/docs/configuration/).
+Most of the time you would start with the auto-generated and add features as you go (i.e. Google).
+
+```yaml
+name: "John Doe"
+description: "John Doe's Blog"
+
+baseurl: "https://blog.example.com"
+markdown: redcarpet
+redcarpet:
+  extensions: ["smart", "tables", "autolink", "with_toc_data"]
+permalink: pretty
+highlighter: pygments
+```
+
+#### Writing Markdown
+
+Then there is often a folder to organize your blogs. It's `_posts` and `_drafts` in Jekyll for the default case.
+You can change the default folder through the `_config.yaml` configuration file.
+You write blog in markdown format. Well, technically it's more than markdown.
+You need to first write [frontmatter](https://jekyllrb.com/docs/frontmatter/), which is the metadata of this blog post in `yaml` format.
+Then you write your blog. Below is the first blog I wrote when I was playing around with Jekyll.
+
+```markdown
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2013-08-12 19:39:03
+categories: dev
+tags: [dev, web, design]
+description: Should I declare success in my migration from Wordpress to Jekyll?
+---
+
+It took me a while actually to dive into Jekyll, but once you've got used to it, it's actually much simpler than Wordpress. And this simplicity is behind some sophistication -- careful design of workflow, nice code re-use, etc. With some stolen css, this new blog is ready to ship.
+
+Inspired by Matt Swanson's blog -- [Do things, write about it](http://mdswanson.com/blog/2013/08/11/write-things-tell-people.html), I have determined to write something down regularly AGAIN. Previous failed blogs (two Wordpress ones) illustrate my laziness, but changes are made day-by-day. Keeping track of what I think during the PhD life would probably be beneficial, at least to myself in the future. While hopefully, some unpolished writings may even inspire others.
+```
+
+The next step is basically get yourself familiarized with markdown syntax.
+[This reference](https://daringfireball.net/projects/markdown/syntax) is a good reference.
+In my experience, this is probably the simplest language you can learn.
+Markdown has its limitations, for example, you cannot control the image size. It will load the image as is.
+But that's not an issue at all. At places you want fine-grain control, use HTML; they co-exist well.
+
+```
+Bruce Cornner: beautiful, horrible, hogwash, genius, maundering, precise, quaint, avant-garde, historical, hackneyed, masterful, trivial, intense, mystical, virtuosic, bewildering, absorbing, concise, absurd, amusing, innovative, nostalgic, contemporary, iconoclastic, sophisticated, trash, masterpieces, etc. IT'S ALL TRUE.
+
+<img src="images/bruce-conner-small.jpg"
+     alt="Bruce Conner"
+     style="width:340px;"/>
+```
+
+#### Tuning Theme
+
+It's often a good idea to start with some theme and then tune it.
+Creating a theme from scratch is quite time-consuming; and hard to get beautiful.
+Pick a theme and then modify parts.
+
+For the HTML part of the theme, there are two parts.
+`_includes` folder defines all the modules, such as header, footer, side bar, etc.
+`_layouts` has various layouts for your page, such as a default layout, a layout for individual post, etc.
+In this way, modules are reusable and it's very easy to change/update layouts.
+
+For the CSS of a page, it's often in a `assets` folder or `public` folder in the root directory.
+I am old-schooled, using `css` directly and I am recently quite fond of [skeleton](getskeleton.com).
+Modern approaches often using `scss`.
+The syntax is relatively easy to learn but it's quite tricky in terms how to get a nice-looking site.
 
 ## Other Knowledges
 
@@ -94,3 +171,31 @@ You can put an image using HTML `<img>` tag, CSS `background` property or dynami
 
 Nowadays increasingly people are viewing sites using their mobile phone instead of desktop.
 Being responsive or not will largely affect readers' experience.
+These are typically handled in CSS, although you can achieve the same thing with Javascript.
+
+Typically you use media query:
+```css
+/* Default */
+body {
+  font-size: 1.5rem;
+}
+
+/* Mobile */
+@media (min-width: 400px) {
+body {
+  font-size: 2.0rem;
+}
+}
+
+/* Tablet */
+@media (min-width: 750px) {
+body {
+  font-size: 2.0rem;
+}
+}
+```
+
+### Debugging
+
+Use your favorite browser and right click, there is a `Inspect` option.
+Chrome's one is currently my choice since it supports traffic throttling quite well.
