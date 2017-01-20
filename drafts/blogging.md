@@ -101,10 +101,20 @@ categories: dev
 tags: [dev, web, design]
 description: Should I declare success in my migration from Wordpress to Jekyll?
 ---
+It took me a while actually to dive into Jekyll, but once you've
+got used to it, it's actually much simpler than Wordpress. And
+this simplicity is behind some sophistication -- careful design
+of workflow, nice code re-use, etc. With some stolen css, this
+new blog is ready to ship.
 
-It took me a while actually to dive into Jekyll, but once you've got used to it, it's actually much simpler than Wordpress. And this simplicity is behind some sophistication -- careful design of workflow, nice code re-use, etc. With some stolen css, this new blog is ready to ship.
-
-Inspired by Matt Swanson's blog -- [Do things, write about it](http://mdswanson.com/blog/2013/08/11/write-things-tell-people.html), I have determined to write something down regularly AGAIN. Previous failed blogs (two Wordpress ones) illustrate my laziness, but changes are made day-by-day. Keeping track of what I think during the PhD life would probably be beneficial, at least to myself in the future. While hopefully, some unpolished writings may even inspire others.
+Inspired by Matt Swanson's blog -- [Do things, write about
+it](http://mdswanson.com/blog/2013/08/11/write-things-tell-people.html),
+I have determined to write something down regularly
+AGAIN. Previous failed blogs (two Wordpress ones) illustrate my
+laziness, but changes are made day-by-day. Keeping track of what
+I think during the PhD life would probably be beneficial, at
+least to myself in the future. While hopefully, some unpolished
+writings may even inspire others.
 ```
 
 The next step is basically get yourself familiarized with markdown syntax.
@@ -113,8 +123,12 @@ In my experience, this is probably the simplest language you can learn.
 Markdown has its limitations, for example, you cannot control the image size. It will load the image as is.
 But that's not an issue at all. At places you want fine-grain control, use HTML; they co-exist well.
 
-```
-Bruce Cornner: beautiful, horrible, hogwash, genius, maundering, precise, quaint, avant-garde, historical, hackneyed, masterful, trivial, intense, mystical, virtuosic, bewildering, absorbing, concise, absurd, amusing, innovative, nostalgic, contemporary, iconoclastic, sophisticated, trash, masterpieces, etc. IT'S ALL TRUE.
+```markdown
+Bruce Cornner: beautiful, horrible, hogwash, genius, maundering, precise,
+quaint, avant-garde, historical, hackneyed, masterful, trivial, intense,
+mystical, virtuosic, bewildering, absorbing, concise, absurd, amusing,
+innovative, nostalgic, contemporary, iconoclastic, sophisticated, trash,
+masterpieces, etc. IT'S ALL TRUE.
 
 <img src="images/bruce-conner-small.jpg"
      alt="Bruce Conner"
@@ -143,6 +157,22 @@ The syntax is relatively easy to learn but it's quite tricky in terms how to get
 
 The first you need to know about a website is probably its name, which, in technical terms, is a URL (unique resource locator).
 It consists of a protocol specification, domain name, and resource path.
+IP is Internet protocol and we usually will say "IP address". It often determines the actual location of a machine.
+For example, `Github.com` is a domain name, and if you use `$ dig github.com`, you will see something like the following:
+```
+ [ . . . ]
+
+;; ANSWER SECTION:
+github.com.             24      IN      A       192.30.253.113
+github.com.             24      IN      A       192.30.253.112
+
+ [ . . . ]
+```
+
+`192.30.253.113` and `192.30.253.112` are IP addresses for the same domain name.
+Having multiple IP addresses can be quite useful for fault tolerance and performance.
+It's like having two homes and you can go either one depending on which one is closer;
+and if you lose the keys to one, the other one is still available. And yes, `dig` is the tool to find out :)
 
 ### Server and Hosting
 
@@ -155,7 +185,7 @@ I typically go to [Low End Box](https://lowendbox.com/) for discounted hosting o
 pick one. DigitalOcean is pretty good.
 
 You may also use hosting services without directly controlling the server.
-My recent fond is Netlify that can do continuous deployment with Github repos.
+My recent fond is [Netlify](https://www.netlify.com) that can do continuous deployment with Github repos.
 
 ### HTML + CSS + JS
 
@@ -166,6 +196,15 @@ and Javascript to implement fancy features (such as click to go back to top).
 
 There are some overlapped functionality among these three parts.
 You can put an image using HTML `<img>` tag, CSS `background` property or dynamically updated with Javascript.
+
+### HTTPS
+
+It's almost a must.
+
+Having HTTPS makes the connection encrypted and makes your site much more legit nowadays.
+The tool to do it is mature, and now free.
+Use [Let's Encrypt (also known as Cerbot)](https://certbot.eff.org/).
+Netlify has a nice integration that gives you one-click HTTPS.
 
 ### Responsive Design
 
