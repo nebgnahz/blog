@@ -157,15 +157,11 @@ For example, every page will have a `head`, so we define them in `_includes/head
   <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon.png"
         type="image/png">
 
-  <!------------------------- Fonts ------------------------>
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700"
         rel="stylesheet" type="text/css">
 
-  <!----------------------- CSS Frameworks ------------------------->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/skeleton.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
-
-  <!----------------------- My CSS ------------------------->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/custom.css">
 </head>
 ```
