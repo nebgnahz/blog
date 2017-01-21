@@ -146,10 +146,57 @@ For the HTML part of the theme, there are two parts.
 `_layouts` has various layouts for your page, such as a default layout, a layout for individual post, etc.
 In this way, modules are reusable and it's very easy to change/update layouts.
 
+For example, every page will have a `head`, so we define them in `_includes/head.html` as follows:
+```html
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon.png"
+        type="image/png">
+
+  <!------------------------- Fonts ------------------------>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700"
+        rel="stylesheet" type="text/css">
+
+  <!----------------------- CSS Frameworks ------------------------->
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/skeleton.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+
+  <!----------------------- My CSS ------------------------->
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/custom.css">
+</head>
+```
+
+In layout, you can reuse the modules in each includes like the following:
+```html
+<html>
+  {% include head.html %}
+  <body>
+    <div class="container">
+	    <div class="offset-by-one ten columns">
+        <div class="content post-body">
+          <span class="post-title">{{ page.title }}</span>
+          <a href="{{ site.baseurl }}/blogs/"
+             class="u-pull-right">Back to Blogs</a>
+          <p class="date">{{ page.date | date_to_string }}</p>
+          <div class="post">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+```
+
 For the CSS of a page, it's often in a `assets` folder or `public` folder in the root directory.
 I am old-schooled, using `css` directly and I am recently quite fond of [skeleton](http://getskeleton.com).
-Modern approaches often using `scss`.
-The syntax is relatively easy to learn but it's quite tricky in terms how to get a nice-looking site.
+Modern approaches often using `scss`. Tuning CSS is, kinda, art.
+The CSS syntax itself is easy to learn but it's very hard to get the right layout.
+Understanding block elements, float options and margin/padding is tricky.
 
 ## Other Knowledges
 
@@ -172,7 +219,8 @@ github.com.             24      IN      A       192.30.253.112
 `192.30.253.113` and `192.30.253.112` are IP addresses for the same domain name.
 Having multiple IP addresses can be quite useful for fault tolerance and performance.
 It's like having two homes and you can go either one depending on which one is closer;
-and if you lose the keys to one, the other one is still available. And yes, `dig` is the tool to find out :)
+and if you lose the keys to one, the other one is still available.
+And yes, `dig` is the tool to find out :)
 
 ### Server and Hosting
 
@@ -185,6 +233,7 @@ I typically go to [Low End Box](https://lowendbox.com/) for discounted hosting o
 pick one. DigitalOcean is pretty good.
 
 You may also use hosting services without directly controlling the server.
+Github has [Pages](https://pages.github.com/) and you can get a sub-domain name like `<username>.github.io`.
 My recent fond is [Netlify](https://www.netlify.com) that can do continuous deployment with Github repos.
 
 ### HTML + CSS + JS
@@ -212,7 +261,8 @@ Nowadays increasingly people are viewing sites using their mobile phone instead 
 Being responsive or not will largely affect readers' experience.
 These are typically handled in CSS, although you can achieve the same thing with Javascript.
 
-Typically you use media query:
+Typically you use media query, although you can see it gets very verbose quickly.
+
 ```css
 /* Default */
 body {
@@ -229,7 +279,7 @@ body {
 /* Tablet */
 @media (min-width: 750px) {
 body {
-  font-size: 2.0rem;
+  font-size: 2.3rem;
 }
 }
 ```
