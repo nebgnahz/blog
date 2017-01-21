@@ -147,7 +147,7 @@ For the HTML part of the theme, there are two parts.
 In this way, modules are reusable and it's very easy to change/update layouts.
 
 For the CSS of a page, it's often in a `assets` folder or `public` folder in the root directory.
-I am old-schooled, using `css` directly and I am recently quite fond of [skeleton](getskeleton.com).
+I am old-schooled, using `css` directly and I am recently quite fond of [skeleton](https://getskeleton.com).
 Modern approaches often using `scss`.
 The syntax is relatively easy to learn but it's quite tricky in terms how to get a nice-looking site.
 
