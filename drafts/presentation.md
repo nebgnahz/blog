@@ -52,3 +52,11 @@ Move from familiar materials to unfamiliar materials for transition.
 ### If a term appears for the second time, you have to explain it, otherwise the audience will confuse
 
 You may get excused for the first time by saying: I will talk about it later. But for the second time, please give an explanation.
+
+### Focus on clarity not sophistication
+
+The goal of your presentation is not to impress the audience (though sometimes you do need to).
+Don't feel bad if you include materials that seem obvious. Especiall some materials are only obvious to you.
+Add enough explanation and examples so that the points or the arguments you made are clear.
+
+The audience will have a pleasant experience if they understand everything; they will be confused with random points arguments.
