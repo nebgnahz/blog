@@ -51,7 +51,7 @@ Ok, next, I will talk about a few tips and lessons learned in this process.
 I'd like to emphasize the properties of these guidelines: you can apply in your presentation.
 By "apply", I mean you can almost run it like an algorithm to check if your presentation follows them.
 
-## Every new word/concept is properly introduced and no synonyms (i.e. surprising words)
+## Every new word/concept is properly introduced and no synonyms (surprising words)
 
 Synonyms removes a feel of repetitive in written materials.
 Synonyms can show off you knowledge and vocabularies.
@@ -93,7 +93,7 @@ Don't try too hard on proving something; simply focus on delivering a message on
 
 Check if you have "what" (the glance) first and then "why and how" (the details).
 
-### Minimize attack surface
+## Minimize attack surface
 
 If people are allowed to stop you in the middle and ask questions, you may want to reduce the attack surface so that at least you can finish the presentation.
 
@@ -115,7 +115,7 @@ Sudden transition definitely requires mental efforts to keep up.
 
 Make sure slide transitions happen only when necessary; and during the transition, move the focus from familiar materials to unfamiliar materials.
 
-### If a term appears for the second time, you have to explain it, otherwise the audience will confuse
+## If a term appears for the second time, you have to explain it, otherwise the audience will confuse
 
 When you preppare your presentation, you have a certain logic order of organizing the materials.
 You have decided to postpone discussing some points in the begining.
@@ -125,7 +125,7 @@ it will make the audience unsatisfied. Because they are now not sure what you me
 
 Check your slides, if you have a term that is only explained in the third time, try to restructure a bit.
 
-### Focus on clarity not sophistication
+## Focus on clarity not sophistication
 
 Some presentations have the goal to impress the audience with glorious math and details;
 when the audience leave, they will say "wow, that's impressive."
