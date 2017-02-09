@@ -1,55 +1,59 @@
 Presentation Skills & Guidelines
 ---
 
-Ok, now I've finished the qualifying exam (and passed, yay), this is a revisit to prepare this article for release.
+Ok, now I've finished the qualifying exam (and passed, yay), this article is ready to release.
 
 ## Background (or a boring personal experience)
 
-Qualifying exam at Berkeley is basically a presentation (two hours at maximum) during which you talk about your past project and your thesis plan.
-While you may have made some progress towards a promising research topic, you could still fail the exam if your idea isn't delivered.
-Failing an exam due to the particular way of presenting the materials is annoying, but it is what it is.
-So the best strategy is to make full preparation for the exam.
+Qualifying exam at Berkeley is basically a presentation (two hours at maximum).
+In the exam, you talk about your past project and your thesis plan.
+While you may have made some progress towards a promising research topic, failing the exam is still possible if your proposal isn't delivered clearly.
+Failing an exam due to presention rather than any technical merit is annoying, but it is what the system is.
+The best strategy is to make full preparation for the exam.
 
 I've been through four iterations revising my slides.
 
-The first one is basically a plain conversion of my paper to the slide format.
-I copied all the figures and use the titles of each section for slide sections.
-The overall process is simple and straightforward, so I was happy; **Until** I made the first practice talk.
-The issue with the version is that too much background is presented.
-I have learned so many interesting knowledge along the work of the project that I am eager to share (or I think in fact it's a desire to impress the audience of my knowledge).
-The practice didn't go well as there is no enough time to finish all of them.
+The first iteration is basically a translation from my written paper to the slide format.
+I copied all the figures and used the titles of each section for slide sections.
+The overall translation was simple and straightforward, so I was happy.
+Until I made the first practice talk.
+The slides contain too much background and I didn't finish the presentation in two and a half hours.
+Because I have learned a lot of interesting knowledge along the research work,
+I am eager to share (or maybe it's a desire to impress the audience of my knowledge).
+Having too much background and explaining them leads to little time for discussing my proposal.
 
-Then I went over to the second pass of the slides and cut the total number of slides from 60 to 40.
-At that time, I thought, mmm, now the logic is clear and content is succinct--looking good.
-I am grateful to have another set of fellow graduate students to help me for another practice.
-This time, I did not finish again.
-There were a couple of issues or lessons learned that motivated me writing this article;
-so many lessons below is from this practice.
-But the core lesson in this iteration is that "I am assuming too much from the audience."
-And the solution, in fact, is quite simple---"offer figures and enough examples."
+In the second pass, I tried hard to cut the total number of slides from 60 to 40.
+While I personally felt good the presetnation's status--the logic seems clear and content is succinct.
+When I did another practice with another set of fellow graduate students, I did not finish again.
+There were a couple of lessons learned in this practice and many of them are summarized below.
+But the core lesson is that "I am assuming too much for the audience."
+Because I moved away all the background and I didn't try to explain them,
+they kept asking questions that causes a back delay.
+Although the solution is quite simple---"offer figures and enough examples,"
+my second iteration was too abstract.
 
-My third pass incorporated some technology tools from the presentation tool.
-Specifically, I was using Keynote, and you can add links to another slide, jump back and forth, and press "Z" to go back to previous slide.
-These are quite useful to simplify my presentation outline: I will keep a lean main content, and push all background stuffs into backup slides.
-In this way, I can allocate more space and time for examples.
-This technique helps me reduced my slides from 40 to 30 and within the 30 slides, I was able to pack more figures and examples.
-The only problem with this iteration is that I got too exhausted and the logic flow between slides is not convincing.
-My friend points out a number of places that I can make improvements and I am genuinely grateful for those suggestions.
+My third pass incorporated some technology tools from the presentation software.
+Specifically, Keynote allows you to add links to another slide, jump back and forth, and press "Z" to go back to the previous slide, etc.
+These are useful to simplify the presentation outline: the main content is kept lean and all background stuffs are moved to backup slides with links to them.
+This also helps save space and time for examples and figures.
+After this iteration, my slides went from 40 to 30.
+The only problem with this iteration was that I got too exhausted in the end and the logic flow between slides broke.
+My friend pointed out a number of places that I could make improvements and I am genuinely grateful for those suggestions.
 
 The last pass was actually a fun one.
-I almost rebuilt the slides from *scractch* except reused figures and animations from the third pass.
-The main slides that I will use to present is kept minimum and I practiced the logic transition for a number of times.
-I have a ton of backup slides. To give a concrete sense, 30 slides for presentation and 32 backup slides.
-In this way, during the exam, whenever I was asked for a particular question, I was able to jump to a slide that I've prepared.
-Even on that slide, the argument is not that strong; the fact you've thought about it and shown with evidence of your thought is a great way to convince the committee for your preparation.
+I almost rebuilt the slides from *scractch* except reusing figures and animations from the third pass.
+The main slides are kept minimum but each slide has a sentence about the points I need to make.
+This version has a ton of backup slides. To give some concrete numbers, I had 30 slides for presentation and 32 backup slides.
+In this way, during the exam, whenever a question was raised, I was able to jump to a slide that I've prepared.
+Even on that slide, the argument was not strong; the fact you've thought about the question and you can show evidence of your thought is a great way to convince the committee for your preparation.
 At least I thought this technique effectively impressed the committee, and give them a reason to reward my hard work.
 
-So the above is a poor narrative of my refinement process.
-I really appreciate all the feedback that I got along the way from my fellow graduate students.
+With the last pass, I passed my qual. If you are curious what the final version looks like, here is the [PDF](https://www.benzhang.name/files/QE-final-slides.pdf) version (27.5 MB).
+Note that there is no animation with the PDF file.
 
-Ok, next, I will talk about a few tips and lessons learned in this process.
+Ok, next, I will talk about a few presentation guidelines learned in this process.
 I'd like to emphasize the properties of these guidelines: you can apply in your presentation.
-By "apply", I mean you can almost run it like an algorithm to check if your presentation follows them.
+By "apply", I mean you can almost run it like an algorithm to check if your presentation satisfy them.
 
 ## Every new word/concept is properly introduced and no synonyms (surprising words)
 
