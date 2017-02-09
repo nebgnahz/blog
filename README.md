@@ -11,10 +11,17 @@ This attempt may not be different, but still, worth trying, isn't it?
 ### Posts
 
 ---
+#### [Presentation Tips](posts/presentation.md)
+
+The best way to learn is from experience. I've just finished my qualifying exam,
+and this post is a writeup about the experience and some lessons I've learned
+along the way.
+
+---
 #### [我的 2016](posts/my-2016.md)
 
 A Look back at 2016. 大概写了 5995 字，好多废话的说。
- 
+
 ---
 #### [豆瓣 2016](posts/douban-2016.md)
 
