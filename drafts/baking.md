@@ -5,16 +5,17 @@ Many of the recipes are from [Berkeley Decal Life Skills: Intro to Baking](http:
 
 #### Resources
 ---
+
 - [smitten kitchen](https://smittenkitchen.com/)
 - [the kitchn](www.thekitchn.com)
 - [food52](https://food52.com)
 
 #### Tips/Techniques
+---
 
 - Always use unsalted butter
 - Soften (not melt) the butter
 - Egg is a binding agent (keeps everything together)
-- 
 
 #### Cookies
 ---
