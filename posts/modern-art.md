@@ -19,7 +19,19 @@ Vernacular photography, scientific, amateur or commercial photography.
 - [Lee Friedlander](https://en.wikipedia.org/wiki/Lee_Friedlander)
 - [Dorothea Lange's migrant mother](https://www.moma.org/learn/moma_learning/dorothea-lange-migrant-mother-nipomo-california-1936)
 - [Larry Sultan and Mike Mandel's Evidence](http://larrysultan.com/gallery/evidence/)
-- [Susan Meiselas's Lena on the Bally]
+- [Susan Meiselas's Carnival Strippers](http://www.susanmeiselas.com/early-years/carnival-strippers/)
+
+- [Shōmei Tōmatsu](https://en.wikipedia.org/wiki/Sh%C5%8Dmei_T%C5%8Dmatsu)
+- [Nobuyoshi Araki](https://en.wikipedia.org/wiki/Nobuyoshi_Araki)
+- [Lieko Shiga](http://www.liekoshiga.com/works/)
+
+Abstract
+
+- [Lee Krasner](https://en.wikipedia.org/wiki/Lee_Krasner)
+- [Richard Diebenkorn](https://en.wikipedia.org/wiki/Richard_Diebenkorn)
+- [Joan Mitchell](https://en.wikipedia.org/wiki/Joan_Mitchell)
+- [Sol LeWitt](https://en.wikipedia.org/wiki/Sol_LeWitt)
+- [Ellsworth Kelly](https://en.wikipedia.org/wiki/Ellsworth_Kelly)
 
 ---
 
