@@ -1,6 +1,18 @@
 Modern Art
 ---
 
+## Methodology
+
+How to appreciate modern art (or abstract art at least). I learned this technique from a guided tour in SFMoMA.
+
+1. Start with basics, lines shapes colors, just describe what you see, do not interpret.
+2. Get into artists head 
+3. You re in dialog with the artist
+4. Take your time Ellsworth Kelly
+5. Focus on your emotions Morris Louis
+6. Your 5 year old cannot do this Cy Twombly
+7. You can break all the rules.
+
 ## Photography
 
 Vernacular photography, scientific, amateur or commercial photography.
