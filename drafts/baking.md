@@ -44,6 +44,31 @@ Steps:
 4. add dry to the wet ingredients, and mix everything; then stir in chocolate chips
 5. line a baking sheet or parchment paper, scoop dough onto the sheet, sprinkle some salt, bake for 10-12 minutes
 
+
+##### Oatmeal (less sugar)
+
+The healthy one (experimented with reduced sugar).
+The following recipe serves 12 large cookies (good for a week for two).
+
+- 1 stick unsalted butter
+- 1/3 cup sugar
+- 1/3 cup light brown sugar
+- 1 eggs
+- 1 cups flour
+- 1 tbsp baking soda
+- 1 tbsp Kosher salt
+- 1 cup oatmeal
+- 1/2 cup raisin
+
+Steps:
+
+1. preheat to 350
+2. cream butter and sugars; add the egg
+3. mix flour, baking soda, salt in a separate bowl
+4. add dry to the wet ingredients, and mix everything
+5. stir in oatmeal and raisin
+6. line a baking sheet or parchment paper, scoop dough onto the sheet, sprinkle some salt, bake for 10-12 minutes
+
 #### Cheesecake
 
 Mostly two parts: the crust and the cheese.
