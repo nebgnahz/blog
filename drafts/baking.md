@@ -3,22 +3,31 @@ Baking
 
 Many of the recipes are from [Berkeley Decal Life Skills: Intro to Baking](http://decal.berkeley.edu/courses/24).
 
-#### Resources
 ---
+#### I made this
+
+- [X] Double Espresso Chocolate Cookie
+- [X] Angel food cake
+- [X] Cheesecake
+- [X] Matcha Mille Crepes Cake
+- [X] Meringue
+
+---
+#### Resources
 
 - [smitten kitchen](https://smittenkitchen.com/)
 - [the kitchn](www.thekitchn.com)
 - [food52](https://food52.com)
 
-#### Tips/Techniques
 ---
+#### Tips/Techniques
 
 - Always use unsalted butter
 - Soften (not melt) the butter
 - Egg is a binding agent (keeps everything together)
 
-#### Cookies
 ---
+#### Cookies
 
 ##### Double Chocolate Espresso Cookie
 
