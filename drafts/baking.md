@@ -105,3 +105,27 @@ Steps:
 3. cream the cheese, add sugar, mix and add sugar. Add liquid, add eggs.
 4. bake for 55-60 mins at 325.
 5. refrigerate for more than 4 hours
+
+---
+#### Angel food cake
+
+_Recipe servings modified for my common use_
+
+
+Ingredients:
+
+- 4 egg white (4 eggs)
+- 1/3 cup cake flour
+- 1/3 cup granulated sugar (mix egg white) + 1/4 cup granulated sugar (mix flour)
+- 1/6 teaspoon salt
+- 1/2 teaspoons cream of tartar
+- 1 teaspoon vanilla extract
+
+Steps:
+
+1. Beat egg white and salt until foamy.
+2. Add cream of tartar beat to white stiff.
+3. Gradually add sugar and beat to hard peak.
+4. Add vanilla extract.
+5. Sift sugar and flour, and fold into the mix.
+6. 375F for 25 minutes.
