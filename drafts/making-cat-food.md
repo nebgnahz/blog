@@ -8,9 +8,9 @@ Making Cat's Food
 - 200 g raw liver (or 40,000 IU Vitamin A and 1600 IU Vitamin D)
 - 16 oz (2 cups) water
 - 4 egg yolks
-- 4,000 mg salmon oil
-- 800 IU Vitamin E
-- 4 Vitamin B-50 complex (2 capsule or less if the cat is picky)
+- 4,000 mg salmon oil (3-4 pills)
+- 800 IU Vitamin E (2 pills of E-400)
+- 1 Vitamin B-50 complex
 - 1.5 tsp lite salt
 
 ## Steps
