@@ -8,12 +8,12 @@ Equifax Incidents 2017
 - [Equifax 可能是史上最严重的个人信息泄露](https://arstechnica.com/information-technology/2017/09/why-the-equifax-breach-is-very-possibly-the-worst-leak-of-personal-info-ever/)
 - [Equifax 执行人出售股权](https://www.bloomberg.com/news/articles/2017-09-07/three-equifax-executives-sold-stock-before-revealing-cyber-hack)
 - [Equifax 将面临巨额诉讼](https://www.bloomberg.com/news/articles/2017-09-08/equifax-sued-over-massive-hack-in-multibillion-dollar-lawsuit)
-- [Apache Struts 陈述](https://blogs.apache.org/foundation/entry/apache-struts-statement-on-equifax)
-- [Equifax 总会说你已经被影响了](https://techcrunch.com/2017/09/08/psa-no-matter-what-you-write-equifax-may-tell-you-youve-been-impacted-by-the-hack/)
+- [（技术）Apache Struts 陈述](https://blogs.apache.org/foundation/entry/apache-struts-statement-on-equifax)
+- [Equifax 检测泄露网站总会说你受影响](https://techcrunch.com/2017/09/08/psa-no-matter-what-you-write-equifax-may-tell-you-youve-been-impacted-by-the-hack/)
 
 ## 相关数据
 
-- 受影响人数：1 亿 4300 万（44% 的人口）
+- 受影响人数：1.43 亿
 - 潜在泄露内容：姓名，社会安全号，生日，地址，驾照，银行信息，保险信息，和其他商业信息
 
 ## 可以采取的措施
