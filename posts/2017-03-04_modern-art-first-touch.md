@@ -1,12 +1,13 @@
-Modern Art
+Modern Art First Touch
 ---
 
 ## Methodology
 
-How to appreciate modern art (or abstract art at least). I learned this technique from a guided tour in SFMoMA.
+How to appreciate modern art (or abstract art at least). I learned this
+technique from a guided tour in SFMoMA.
 
 1. Start with basics, lines shapes colors, just describe what you see, do not interpret.
-2. Get into artists head 
+2. Get into artists head
 3. You re in dialog with the artist
 4. Take your time Ellsworth Kelly
 5. Focus on your emotions Morris Louis
