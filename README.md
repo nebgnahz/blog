@@ -13,9 +13,7 @@ This attempt may not be different, but still, worth trying, isn't it?
 ---
 #### [Modern Art First Touch](posts/2017-03-04_modern-art-first-touch.md)
 
-The best way to learn is from experience. I've just finished my qualifying exam,
-and this post is a writeup about the experience and some lessons I've learned
-along the way.
+Or how to appreciate modern art with 7 steps?
 
 ---
 #### [Presentation Tips](posts/2017-02-06_presentation.md)
@@ -32,7 +30,7 @@ A Look back at 2016. 大概写了 5995 字，好多废话的说。
 ---
 #### [豆瓣 2016](posts/2016-12-27_douban-2016.md)
 
-又到一年总结时
+豆瓣的统计结果出来了：2016年 我一共观影 77 部，比去年少 68 部，平均 4.7 天看一部。其中有 24 部电视剧，22 部新片，有 17 部打了 5 星。 其中不少是 Netflix Original，比如马男三季，比如绝命毒师四季，比如女子监狱三季。 
 
 ---
 #### [Cocktail](posts/2016-12-17_cocktail.md)
