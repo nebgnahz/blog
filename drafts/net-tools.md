@@ -1,12 +1,8 @@
-Network Tools
----
-
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [-](#-)
-- [[Wondershaper](http://lartc.org/wondershaper)](#wondershaperhttplartcorgwondershaper)
-- [[Netstat](http://www.tldp.org/LDP/nag2/x-087-2-iface.netstat.html)](#netstathttpwwwtldporgldpnag2x-087-2-ifacenetstathtml)
+- [Wondershaper](#wondershaper)
+- [netstat](#netstat)
     - [Routing](#routing)
 - [Clockdiff](#clockdiff)
 - [NTP](#ntp)
@@ -16,9 +12,10 @@ Network Tools
 Here is a quick dump of network-related tools (diagnose, monitoring, alteration,
 etc).
 
-# [Wondershaper](http://lartc.org/wondershaper)
+# Wondershaper
 
-An advanced tool is `tc` but wondershaper is easy enough to use (and often suffice your purpose of throttling the bandwidth).
+[wondershaper](http://lartc.org/wondershaper) is easy enough to use (and often
+suffice your purpose of throttling the bandwidth).  An advanced tool is `tc`.
 
 ```shell
 ## wondershaper [interface] [downlink] [uplink]
@@ -28,14 +25,16 @@ sudo wondershaper wlan0 512 128
 sudo wondershaper clear wlan0
 ```
 
-# [Netstat](http://www.tldp.org/LDP/nag2/x-087-2-iface.netstat.html)
+# netstat
 
-`netstat` is often too powerful to master what you can do with it. Let's take an example-driven approach below.
+`netstat` is often too powerful to master what you can do with it. Let's take an
+example-driven approach below.
 
 ## Routing
 
-Show kernel routing table. This is super helpful if you are working with Docker or VM and need to setup a local subnet.
-For example, on my machine, docker creates a virtual interface `docker0` and takes the subnet of `172.17.0.0/16`.
+Show kernel routing table. This is super helpful if you are working with Docker
+or VM and need to setup a local subnet. For example, on my machine, docker
+creates a virtual interface `docker0` and takes the subnet of `172.17.0.0/16`.
 
 ```shell
 $ netstat -nr
