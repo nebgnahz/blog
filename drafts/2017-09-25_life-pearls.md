@@ -5,6 +5,8 @@ Life Pearls 生活珠玑
 
 **入选条件**。吃的时候，内心活动如下：不就是 X，能好吃到哪里去啊。（一口之后）。卧槽，太好吃了！（一分钟之后）为什么以前没发现这么好吃的东西！
 
+---
+
 #### Sausage from [The Local Butcher Shop](http://thelocalbutchershop.com/)
 
 参加系里的 barbecue，同学带了一个 sausage 分给大家，只分到一口觉得还不错。于是追问他。
@@ -15,17 +17,25 @@ Life Pearls 生活珠玑
 
 然后我自己去买了一个，回家煎了煎，然后就是入选理由的心理活动。
 
+---
+
 #### Acme Pain Epis.
 
 前几次去 Acme 看到大家都买一个奇形怪状的面包，就在进门左手边的位置。而且卖的很火，有时候都没有了。于是自己也买来尝一尝。外壳酥酥的，里面软软的。不过生命周期太短，第二天基本就不好吃了，所以我只能当天买当天穿吃掉。
+
+---
 
 #### ACme Sweet Loaf
 
 知道这个面包种类是看 Blue Bottle 的书，里面说他们用 sweet loaf 和 poached egg 组合。
 
+---
+
 #### Blue Bottle Ice Latte.
 
 恩，拿铁是我去每家咖啡店的必点饮品，因为这样可以用来评判一家咖啡店的好坏，咖啡的香味决定了店里原料的好坏，奶的甜味决定店员的咖啡水平。然后当我喝到蓝瓶子的冰拿铁的时候（Oakland Webster 总店），整个人都沦陷了！那种恰到好处的苦味配合淡淡的奶香。
+
+---
 
 #### Cabbage from Monterey Market
 
