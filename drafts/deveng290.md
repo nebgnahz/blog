@@ -111,3 +111,19 @@ Some tips:
 
 - [Cheryl Strayed: The Future has an Ancient Heart (2011)](http://therumpus.net/2011/05/dear-sugar-the-rumpus-advice-column-72-the-future-has-an-ancient-heart/)
 - [Dave Evans: Stop Pondering, Start Prototyping (2017)](https://www.youtube.com/watch?v=yp3Vm3Epl2w)
+
+## Week 6: Make and Experiment – Navigating Choices
+
+- [All The Lives We’ll Never Lead](https://onbeing.org/blog/courtney-martin-all-the-lives-well-never-lead/)
+- [The paradox of choice](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice)
+
+#### Assignment
+
+The homework this week is to actionize one of the prototypes you discussed in
+class. Write a description of your prototyping. It should include overviews of:
+
+- Intention: A description of what you were trying to learn and why
+- Process: A description of what you did to prototype
+- Reflection: A description of how it went and what you got out of the
+  experience
+
