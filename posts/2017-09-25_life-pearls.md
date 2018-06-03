@@ -41,9 +41,13 @@ Life Pearls 生活珠玑
 
 每次蔬菜必买菜，随便炒炒加点蒸鱼豉油都好吃极了。一开始自以为自己炒菜进步，回国后给家里人说我来做手撕包菜，买了包菜却做得一塌糊涂；然后才意识到，好的原料有多重要。而 Monterey Market 的包菜，有股甜甜的鲜味。
 
+---
+
 #### Metropolis Potato Rosemary Bread
 
 朋友推荐，Berkeley Bowl 和一些 local grocery store 有。觉得什么都不加，稍微煎一下最好吃。
+
+<!-- links -->
 
 [zhihu-link]: https://www.zhihu.com/question/20840874
 [food-comment]: https://docs.google.com/document/d/112lhIhIDyVpxYU1AM-6ro4DIbTWi2OBDCpfxSJlsMBw/edit#heading=h.9hi08akptraw

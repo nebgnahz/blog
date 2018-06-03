@@ -11,6 +11,17 @@ This attempt may not be different, but still, worth trying, isn't it?
 ### Posts
 
 ---
+#### [Baking Bread](posts/2018-06-03-bread-baking.md)
+
+Buy and read Ken Forkish's awesome book: ["Flour Water Salt Yeast"
+(FWSY)](http://kensartisan.com/flour-water-salt-yeast/).
+
+---
+#### [生活珠玑 Life Pearls](posts/2017-09-25_life-pearls.md)
+
+哪些东西买了之后，会让人因生活质量和幸福感提升而感觉相见恨晚？
+
+---
 #### [Modern Art First Touch](posts/2017-03-04_modern-art-first-touch.md)
 
 Or how to appreciate modern art with 7 steps?
@@ -42,6 +53,12 @@ I've encountered along the research.
 #### [Home Bar 家庭小吧](posts/2016-12-17_home-bar.md)
 
 如何用 $100 的预算在家里搞一个还不错的调酒场？
+
+---
+#### [Lessons learned through PhD suffering](posts/2016-12-13-phd-lessons.md)
+
+Do not complain about what you cannot change, act to change what you can
+control. And learn to appreciate, in a critical way
 
 ---
 #### [系統機制與個人主義 Systems and Individuals](posts/2016-12-04_systems-and-individuals.md)
