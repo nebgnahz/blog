@@ -1,4 +1,6 @@
-I am currently a PhD student at Berkeley, researching distributed systems.
+<s>I am currently a PhD student at Berkeley, researching distributed systems.</s>
+
+I am currently a SWE at Google. These blogs are about my personal stuffs.
 
 I don't write a lot (though have tons of [tsukkomi](https://www.benzhang.name/moods/)).
 Previous unsuccessful attempts include WordPress, Jekyll, Hugo and Medium...
@@ -9,6 +11,11 @@ a few articles (promising myself I will keep writing) and then STOP.
 This attempt may not be different, but still, worth trying, isn't it?
 
 ### Posts
+
+---
+#### [我的咖啡革命 My Coffee Evolution](posts/2018-11-02-my-coffee-evolution.md)
+
+我的咖啡历程：从雀巢速溶，到 Peet's，到蓝瓶子，再到我自己烘培咖啡豆。
 
 ---
 #### [Baking Bread](posts/2018-06-03-bread-baking.md)
